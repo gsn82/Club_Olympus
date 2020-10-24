@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Club Olympus</string>
+    <string name="text_first_name">First Name</string>
+    <string name="text_last_name">Last Name</string>
+    <string name="text_group">Group</string>
+    <string name="text_gender">Gender</string>
+</resources>
